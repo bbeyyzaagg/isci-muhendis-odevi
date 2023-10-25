@@ -1,0 +1,16 @@
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\obj\Debug\net8.0-windows\nyp_işçi_ödev.Form1.resources
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\obj\Debug\net8.0-windows\nyp işçi ödev.csproj.GenerateResource.cache
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\obj\Debug\net8.0-windows\nyp işçi ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\obj\Debug\net8.0-windows\nyp işçi ödev.AssemblyInfoInputs.cache
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\obj\Debug\net8.0-windows\nyp işçi ödev.AssemblyInfo.cs
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\obj\Debug\net8.0-windows\nyp işçi ödev.csproj.CoreCompileInputs.cache
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\bin\Debug\net8.0-windows\nyp işçi ödev.exe
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\bin\Debug\net8.0-windows\nyp işçi ödev.deps.json
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\bin\Debug\net8.0-windows\nyp işçi ödev.runtimeconfig.json
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\bin\Debug\net8.0-windows\nyp işçi ödev.dll
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\bin\Debug\net8.0-windows\nyp işçi ödev.pdb
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\obj\Debug\net8.0-windows\nyp işçi ödev.dll
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\obj\Debug\net8.0-windows\refint\nyp işçi ödev.dll
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\obj\Debug\net8.0-windows\nyp işçi ödev.pdb
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\obj\Debug\net8.0-windows\nyp işçi ödev.genruntimeconfig.cache
+C:\Users\beyza\OneDrive\Masaüstü\nyp ödev\nyp 2. ödev\nyp işçi ödev\nyp işçi ödev\obj\Debug\net8.0-windows\ref\nyp işçi ödev.dll
